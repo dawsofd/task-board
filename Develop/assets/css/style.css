@@ -14,3 +14,11 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.form-label {
+  margin: 5px;
+}
+
+.form-control {
+  margin: 5px;
+}
