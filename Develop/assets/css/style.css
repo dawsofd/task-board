@@ -29,10 +29,6 @@ body {
   text-align: center;
 }
 
-.btn-primary {
-  background-color: #04AA6D;
-}
-
 #taskDescription {
   height: 100px;
 }
